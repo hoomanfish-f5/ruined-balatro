@@ -19,7 +19,7 @@ Disable Play Protect if you have flagged by play protect prompt.
 # How to load mod on it
 to load mod property i recommend to use "Material Files"
 
-more info will come to [TUTORIAL.md.](https://github.com/hoomanfish-f5/ruined-balatro/main/TUTORIAL.md)
+more info will come to [TUTORIAL.md.](https://github.com/hoomanfish-f5/ruined-balatro/blob/main/TUTORIAL.md)
 # Disclaimer
 I do not own any of games and thing.
 
