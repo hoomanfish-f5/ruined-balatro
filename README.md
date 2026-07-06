@@ -21,7 +21,7 @@ to load mod property i recommend to use "Material Files"
 
 more info will come to [TUTORIAL.md.](https://github.com/hoomanfish-f5/ruined-balatro/blob/main/TUTORIAL.md)
 # Disclaimer
-I do not own any of games and thing.
+I do not own any of games and thing has download from sources.
 
 And was for educational pourpse only.
 
@@ -34,3 +34,5 @@ Beacause official Balatro Discord has longstanding rule angainst non-desktop pla
 I recomended go to Steamodded Discord for help or supporting.
 
 Discord: [Steamodded](https://discord.gg/kU8cqCqwy3)
+# License
+This Repo is under lisened at GNU General Public License
