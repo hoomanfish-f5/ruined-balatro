@@ -25,6 +25,8 @@ I do not own any of games and thing.
 
 And was for educational pourpse only.
 
+If you got banned or kicked in discord server. I will not responsibility about this.
+
 If official balatro developer ask me to remove **I will**
 # Supporting
 Beacause official Balatro Discord has longstanding rule angainst non-desktop platforms
