@@ -22,3 +22,4 @@ If official balatro developer ask me to remove **I will**
 # Supporting
 Beacause official Balatro Discord has longstanding rule angainst non-desktop platforms 
 I recomended go to Steamodded Discord for help or supporting.
+Discord: [Steamodded](https://discord.gg/kU8cqCqwy3)
