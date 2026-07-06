@@ -1,5 +1,5 @@
 # Turorial
-this commit will help you how ti install and load mod for android
+this commit will help you how to install and load mod for android
 # Install app
 simply go to [release](https://github.com/hoomanfish-f5/ruined-balatro/releases)
 and download latest build version
