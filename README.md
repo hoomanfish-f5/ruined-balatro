@@ -18,6 +18,8 @@ then go to Download folder and click downloaded apk.
 Disable Play Protect if you have flagged by play protect prompt.
 # How to load mod on it
 to load mod property i recommend to use "Material Files"
+#Build your own
+the diy tutorial will on [DIY.md](https://github.com/hoomanfish-f5/ruined-balatro/blob/main/DIY.md)
 
 more info will come to [TUTORIAL.md.](https://github.com/hoomanfish-f5/ruined-balatro/blob/main/TUTORIAL.md)
 # Disclaimer
